@@ -1,5 +1,5 @@
 # vidacare-api
 App that consumes vida care api
 
-# How to run?
+### Getting Started
 clone the repo and run using localhost
